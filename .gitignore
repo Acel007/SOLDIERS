@@ -66,3 +66,4 @@ crashlytics-build.properties
 *.meta
 
 .vscode/
+Project.code-workspace
