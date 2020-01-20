@@ -68,3 +68,9 @@ crashlytics-build.properties
 .vscode/
 
 *.code-workspace
+
+Packages/
+
+app.config
+
+packages.config
